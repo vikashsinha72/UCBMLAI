@@ -1,4 +1,5 @@
 ﻿#Berkeley Machine Learning and AI Professional Certification
+
 This is 1st Practical Application Assignment as part of Module 5.1
 
 This practical application assignment focuses on using data analysis skills, in an effort to seek answer to the question based on survey results, “Will the Customer Accept the Coupon?”.
