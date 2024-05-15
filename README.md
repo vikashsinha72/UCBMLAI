@@ -41,7 +41,7 @@ g) The 'frequent elderly visitor drive with adult passenger and job other than f
 
 h) The 'frequent younger visitors' to bar have accepted the coupons to the most (39%) compared to 'frequent visitors that are elder and widowed' who have slightly less interest (37%) or 'frequent visitors to cheap restaurants with low income' who have even less interest (24%).
 
-h) The Driver visiting frequently to bar and having elder passenger and not widow, has similar acceptance rate for coupon (~71%) as driver having high frequent visit and younger age (~72%). However low income driver visiting frequently to cheap restaurant had shown least interest in coupon acceptance (~46%)
+i) The Driver visiting frequently to bar and having elder passenger and not widow, has similar acceptance rate for coupon (~71%) as driver having high frequent visit and younger age (~72%). However low income driver visiting frequently to cheap restaurant had shown least interest in coupon acceptance (~46%)
 
 In conclusion, Most frequent Bar visitors drivers, are taking advantage of the coupon and accepting the same more as compare to anyone else.
 
